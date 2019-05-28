@@ -1,0 +1,28 @@
+
+body {
+	background: url('https://newvitruvian.com/images/drawing-sky-real-cloud-6.png') no-repeat center top;
+	background-color: #5766BD;
+	color:#fff;
+	padding-top:20px;
+}
+
+.sidenav-trigger {
+	cursor: pointer;
+	position: absolute;
+}
+
+.sidenav {
+	color: rgba(0,0,0,0.87);
+}
+
+.sidenav .active {
+	background-color: rgba(0,0,0,0.05);
+}
+
+.sidenav .location-search input {
+	
+	padding-left: 30px;
+	padding-right: 30px;
+	width: calc(100% - 60px);
+	
+}
